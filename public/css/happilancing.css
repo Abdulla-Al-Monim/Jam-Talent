@@ -1,0 +1,399 @@
+/* happilancing start */
+
+/* top slider section start */
+.happilancing .top-slider {
+    position: relative;
+}
+.happilancing .slider-text {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.happilancing .top-slider .slider-text h1 {
+    color: rgb(255, 255, 255);
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 121px;
+}
+.happilancing .top-slider .slider-text h3 {
+    color: rgb(255, 255, 255);
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    line-height: 37px;
+    font-weight: 400;
+    font-size: 19px;
+    opacity: 1;
+}
+.happilancing .top-slider .carousel-inner img {
+    height: fit-content;
+}
+/* top slider section end */
+/* Enjoy the difference start */
+.happilancing .enjoy-the-difference {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.happilancing .enjoy-the-difference h2 {
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #333333;
+    margin: 0 0 20px 0;
+}
+.happilancing .enjoy-the-difference h4 {
+    text-transform: inherit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8;
+    margin: 0 0 60px 0;
+    color: #999999;
+    opacity: 1;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.happilancing .enjoy-the-difference h3 {
+    color: #00b6c6 !important;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 0 0 20px 0;
+    color: #777777;
+}
+.happilancing .enjoy-the-difference p {
+}
+/* Enjoy the difference end */
+/* second slider start */
+.happilancing .second-slider {
+    background-image: url(http://unicon.minti-themes.com/wp-content/uploads/2015/01/bx001.jpg);
+    padding-top: 160px;
+    padding-bottom: 210px;
+    background-position: 50% 93px;
+    opacity: 1;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.happilancing .second-slider .container .text .carousel-inner h4 {
+    padding: 0 5%;
+    margin: 0 0 14px 0;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.9;
+    font-weight: 400;
+    cursor: move;
+    cursor: -webkit-grab;
+    cursor: -o-grab;
+    cursor: -ms-grab;
+    cursor: grab;
+}
+/* second slider end */
+/* Information Section Start */
+.happilancing .info-section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #777777;
+}
+.happilancing .info-section .row h6 {
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #333333;
+    margin: 0 0 20px 0;
+    font-size: 19px;
+}
+
+.happilancing .info-section .row p {
+}
+/* Information Section End */
+/* Gallery Section Start */
+.happilancing .gallery {
+    min-height: 766px;
+    overflow: hidden;
+}
+.happilancing .gallery .lg-img {
+    height: 766px;
+    object-fit: cover;
+    width: 100%;
+}
+.happilancing .gallery .md-img {
+    height: 383px;
+    object-fit: cover;
+    width: 100%;
+}
+.happilancing .gallery .sm-img {
+    height: 383px;
+    object-fit: cover;
+    width: 100%;
+}
+.happilancing .gallery .gallery-hvr {
+    position: relative;
+}
+
+.happilancing .gallery img {
+    transition: all 0.4s;
+}
+.happilancing .gallery .hvr-txt {
+    position: absolute;
+    background: #00b6c6;
+    width: 100%;
+    height: 55px;
+    bottom: -70px;
+    transition: all 0.3s;
+}
+.happilancing .gallery .hvr-txt h3 {
+    text-align: center;
+    margin-top: 13px;
+    color: #dfdede;
+    font-weight: 600;
+}
+.happilancing .gallery .gallery-hvr:hover .hvr-txt {
+    bottom: 0px;
+}
+.happilancing .gallery .gallery-hvr:hover img {
+    padding-bottom: 50px;
+}
+/* Gallery Section End */
+/* Knowledge, experience start */
+.happilancing .knowledge-exp {
+}
+.happilancing .knowledge-exp .left-coll {
+    color: rgb(68, 189, 189);
+    background-color: rgb(34, 34, 34);
+    height: 512px;
+    opacity: 1;
+    left: 0px;
+    padding: 13% !important;
+}
+.happilancing .knowledge-exp .left-coll {
+}
+.happilancing .knowledge-exp .left-coll h1 {
+    color: #1cbac8;
+    text-transform: uppercase;
+    line-height: 1.2 !important;
+    text-align: left;
+    font-size: 60px;
+    font-weight: 400;
+}
+.happilancing .knowledge-exp .left-coll span {
+    color: #ffffff;
+}
+.happilancing .knowledge-exp .right-coll {
+    padding: 13% !important;
+    background-color: rgb(28, 186, 200);
+    height: 512px;
+    opacity: 1;
+    color: white;
+    right: 0px;
+}
+.happilancing .knowledge-exp .right-coll h3 {
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+.happilancing .knowledge-exp .right-coll p {
+    margin-bottom: 15px;
+}
+/* Knowledge, experience end */
+/* brand section start */
+.happilancing .brand {
+    background-color: #333333;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+/* brand section end */
+/* get in touch  */
+.happilancing .get-in-touch {
+    background-color: #f5f5f5;
+    padding-top: 190px;
+    padding-bottom: 100px;
+}
+.happilancing .get-in-touch .form-sec-bg {
+    background-color: rgb(251 251 251 / 47%);
+    box-shadow: rgb(0 0 0 / 68%) 0px 0px 0px 0px;
+}
+.happilancing .get-in-touch .form {
+    padding: 8% 7%;
+    box-shadow: rgb(0 0 0 / 12%) 0px 0px 7px 1px;
+    background-color: #f5f5f5;
+    margin-top: -98px;
+}
+.happilancing .get-in-touch .add-box {
+    position: relative;
+    padding: 23px 6px 16px 43px;
+    background-color: var(--black);
+    transition: all 0.25s ease-in-out 0s;
+}
+.happilancing .get-in-touch .icon-box {
+    background-color: var(--black);
+    padding: 10px;
+    border: 1px solid rgb(68, 68, 68);
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.78) 0px 10px 10px -8px;
+    top: -68px;
+    left: -21px;
+    transition: all 255ms ease-out 0s;
+}
+.happilancing .get-in-touch .icon-box:hover {
+    background-color: var(--blue);
+    transform: scale(1.2);
+}
+.happilancing .get-in-touch .icon-box:hover .icon {
+    fill: var(--black);
+}
+/* /get in touch end  */
+
+/* media quary section start  */
+@media (max-width: 1200px) {
+    .header h1 {
+        font-size: 40px;
+        font-weight: 800;
+    }
+}
+@media (max-width: 991px) {
+    .header h1 {
+        font-size: 33px;
+        font-weight: 800;
+    }
+    .profile-responsive {
+        margin-top: 70px;
+    }
+}
+@media (max-width: 575px) {
+    .header {
+        min-height: 454px;
+    }
+    .a-team-of-professionals {
+        background-color: var(--black);
+        padding: 88px 0;
+        margin-top: 56px;
+    }
+}
+
+/* category */
+
+@media (max-width: 575px) {
+    .category .card {
+        margin: 23px auto;
+    }
+}
+@media (max-width: 576px) {
+    .happilancing .top-slider .carousel-inner img {
+        height: 490px;
+    }
+    .happilancing .slider-text {
+        position: absolute;
+        top: 40%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+    }
+    .happilancing .top-slider .slider-text h1 {
+        color: rgb(255, 255, 255);
+        visibility: inherit;
+        transition: none 0s ease 0s;
+        font-weight: 500;
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .happilancing .top-slider .slider-text h3 {
+        color: rgb(255, 255, 255);
+        visibility: inherit;
+        transition: none 0s ease 0s;
+        line-height: 25px;
+        font-weight: 400;
+        font-size: 15px;
+        opacity: 1;
+        margin-top: 5%;
+    }
+    .happilancing .enjoy-the-difference {
+        padding-top: 55px;
+        padding-bottom: 55px;
+    }
+    .happilancing .enjoy-the-difference h2 {
+        font-size: 34px;
+        font-weight: 400;
+        line-height: 1.4;
+        color: #333333;
+        margin: 0 0 14px 0;
+    }
+    .happilancing .enjoy-the-difference h4 {
+        text-transform: inherit;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.8;
+        margin: 0 0 45px 0;
+        color: #999999;
+        opacity: 1;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+    }
+    .happilancing .second-slider {
+        padding-top: 65px;
+        padding-bottom: 77px;
+    }
+    .happilancing .second-slider .container .text .carousel-inner h4 {
+        font-size: 17px;
+        line-height: 1.6;
+    }
+    .info-section {
+        padding-top: 55px;
+        padding-bottom: 155px;
+    }
+    .info-section .row h6 {
+        margin: 0 0 10px 0;
+        font-size: 18px;
+    }
+    .happilancing p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .happilancing .gallery .lg-img {
+        height: 383px;
+        object-fit: cover;
+        width: 100%;
+    }
+    .happilancing .gallery .md-img {
+        height: 383px;
+        object-fit: cover;
+        width: 100%;
+    }
+    .happilancing .gallery .sm-img {
+        height: 383px;
+        object-fit: cover;
+        width: 100%;
+    }
+    .happilancing .left-coll {
+        color: rgb(68, 189, 189);
+        background-color: rgb(34, 34, 34);
+        height: 330px;
+        opacity: 1;
+        left: 0px;
+        padding: 10% 15%;
+    }
+    .happilancing .left-coll h1 {
+        color: #1cbac8;
+        text-transform: uppercase;
+        line-height: 1.2 !important;
+        text-align: left;
+        font-size: 44px;
+        font-weight: 300;
+    }
+    .happilancing .right-coll {
+        padding: 12% !important;
+        background-color: rgb(28, 186, 200);
+        height: 505px;
+        opacity: 1;
+        color: white;
+        right: 0px;
+    }
+    .happilancing .brand img {
+        width: 100px;
+    }
+}
+/* happilancing end */

@@ -1,0 +1,22 @@
+<?php 
+return[
+	"About the Employer"=>"About the Employer",
+	"Verified"=>"Verified",
+	"Project Budget"=>"Project Budget",
+	"Project Description"=>"Project Description",
+	"Project Brief"=>"Project Brief",
+	"Freelancers Bidding"=>"Freelancers Bidding",
+	"Set your"=>"Set your",
+	"minimal rate"=>"minimal rate",
+	"delivery time"=>"delivery time",
+	"Days"=>"Days",
+	"Place a Bid"=>"Place a Bid",
+	"You are Already bid this job"=>"You are Already bid this job",
+	"Dont have an account?"=>"Don't have an account?",
+	"Sign Up"=>"Sign Up",
+	"Bookmark or Share"=>"Bookmark or Share",
+	"Bookmark"=>"Bookmark",
+	"Bookmarked"=>"Bookmarked",
+	"Bid on this job"=>"Bid on this job",
+	"Posted By"=>"Posted By",
+];

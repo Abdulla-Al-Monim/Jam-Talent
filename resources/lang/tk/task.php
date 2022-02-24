@@ -1,0 +1,43 @@
+<?php 
+return[
+	"About the Employer"=>"İşveren Hakkında",
+	"Verified"=>"doğrulandı",
+	"Project Budget"=>"Proje bütçesi",
+	"Project Description"=>"Proje Açıklaması",
+	"Project Brief"=>"Proje tanıtımı",
+	"Freelancers Bidding"=>"Serbest Çalışan Teklifi",
+	"Set your"=>"senin",
+	"minimal rate"=>"asgari oran",
+	"delivery time"=>"teslimat süresi",
+	"Days"=>"günler",
+	"Place a Bid"=>"Bir teklif yap",
+	"You are Already bid this job"=>"Zaten bu işe teklif veriyorsunuz",
+	"Dont have an account?"=>"Hesabınız yok mu?",
+	"Sign Up"=>"Üye olmak",
+	"Bookmark or Share"=>"Yer İşareti veya Paylaşın",
+	"Bookmark"=>"Yer imi",
+	"Bookmarked"=>"İşaretli",
+	"Bid on this job"=>"Bid on this job",
+
+
+
+"About the Employer"=>"İşveren Hakkında",	
+"Verified"=>"Doğrulandı",	
+"Project Budget"=>"Proje Bütçesi",	
+"Project Description"=>"Proje Açıklaması",	
+"Project Brief"=>"Proje Tanıtımı",	
+"Freelancers Bidding"=>"Serbest Çalışan Teklifi",	
+"Set your"=>"senin",	
+"minimal rate"=>"asgari oran",	
+"delivery time"=>"teslimat süresi",	
+"Days"=>"günler",	
+"Place a Bid"=>"Bir teklif yap",	
+"You are Already bid this job"=>"Zaten bu işe teklif veriyorsunuz",	
+"Dont have an account?"=>"Hesabınız yok mu?",	
+"Sign Up"=>"Üye olmak",	
+"Bookmark or Share"=>"Yer İşareti veya Paylaşın",	
+"Bookmark"=>"Yer imi",	
+"Bookmarked"=>"İşaretli",	
+"Bid on this job"=>"Bid on this job",	
+
+];

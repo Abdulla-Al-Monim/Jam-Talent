@@ -1,0 +1,21 @@
+<?php
+return[
+	"Project Budget"=>"Project Budget",
+	"Job Description"=>"Job Description",
+	"Similar Jobs"=>"Similar Jobs",
+	"Apply Now"=>"Apply Now",
+	"Job Summary"=>"Job Summary",
+	"Location"=>"Location",
+	"Job Type"=>"Job Type",
+	"Project Budget"=>"Project Budget",
+	"Date Posted"=>"Date Posted",
+	"Attach File With CV"=>"Attach File With CV",
+	"Salary"=>"Salary",
+	"Budget"=>"Budget",
+	"Add Attachments"=>"Add Attachments",
+	"Upload your CV/resume relevant file."=>"Upload your CV/resume relevant file.",
+	"Max. files size"=>"Max. files size",
+	"About the Employer"=>"About the Employer",
+	"No Job Found"=>"No Job Found",
+	"You are Already Apply this job!"=>"You are Already Apply this job!",
+]; 

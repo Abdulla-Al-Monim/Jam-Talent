@@ -1,0 +1,181 @@
+:root {
+  --primary: #14a800;
+  --secondary: #65735b;
+  --black: #000000;
+  --white: #ffffff;
+}
+
+/* header section start */
+header .row h1 {
+  color: var(--primary);
+  font-size: 70px;
+}
+header .row p {
+  color: var(--secondary);
+  font-size: 25px;
+  font-weight: 500;
+}
+header .row .button-grp .btn-one {
+  background-color: var(--primary);
+  border: 2px solid var(--primary);
+  color: var(--white);
+  font-size: 16px;
+  padding: 5px 27px;
+  font-weight: 500;
+}
+header .row .button-grp .btn-two {
+  background-color: var(--white);
+  border: 2px solid var(--primary);
+  color: var(--primary);
+  font-size: 16px;
+  padding: 5px 27px;
+  font-weight: 500;
+}
+header .row .trusted p {
+  color: var(--secondary);
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+header .row .trusted img {
+  width: 130px;
+}
+/* header section end */
+/* second section start */
+.second-section {
+  background-image: url(img/man-g.jpg);
+  background-position: center;
+  border-radius: 12px;
+  min-height: 500px;
+  margin-top: 90px;
+  background-color: #00000059;
+  background-blend-mode: darken;
+  color: white;
+  padding: 2%;
+}
+.second-section a {
+  text-decoration: none;
+  color: white;
+}
+
+.second-section .col-5 h1 {
+  font-size: 71px;
+}
+.second-section .col-5 p {
+  margin-top: 32px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.second-section .row .colls-margin {
+}
+.second-section .row .colls {
+  background-color: var(--primary);
+  border-radius: 9px;
+  padding: 13px;
+}
+/* second section end */
+/* third section start */
+.third-section {
+  margin-top: 90px;
+}
+.third-section h1 {
+  font-size: 88px;
+}
+.third-section li {
+  list-style: none;
+}
+.third-section ul a {
+  text-decoration: none;
+  color: var(--secondary);
+  font-size: 32px;
+  font-weight: 600;
+}
+.third-section .round {
+  border-radius: 20px;
+}
+/* third section end */
+/* forth section start */
+.forth-section {
+  margin-top: 90px;
+}
+.forth-section .forth-background {
+  background-color: black;
+  padding: 30px;
+  color: #ffffff;
+}
+
+.forth-section img {
+  height: 100%;
+  object-fit: cover;
+}
+.forth-section h1 {
+  font-size: 72px;
+  color: white;
+}
+.forth-section p {
+  font-size: 19px;
+}
+.forth-section h3{
+  color: #ffff;
+}
+.forth-section hr {
+      margin-top: 165px;
+    /* color: #60097c1c; */
+    background: #afa9a9;
+}
+/* forth section end */
+/* fifth section start */
+.fifth-section {
+  margin-top: 90px;
+}
+.fifth-section .row .col-7 h1 {
+  font-size: 85px;
+  margin-bottom: 75px;
+}
+.fifth-section .row .cards {
+  max-width: 505px;
+}
+.fifth-section .row .cards h3 {
+  color: #2a41e8;
+}
+.fifth-section .row .cards p {
+  color: var(--secondary);
+}
+/* fifth section end */
+/* sixth section start */
+.sixth-section {
+  margin-top: 90px;
+}
+.sixth-section .sixth-background {
+  background-color: var(--primary);
+  padding: 30px;
+  color: #ffffff;
+}
+.sixth-section img {
+  height: 100%;
+  object-fit: cover;
+}
+.sixth-section h1 {
+  font-size: 72px;
+}
+.sixth-section p {
+  font-size: 19px;
+}
+.sixth-section hr {
+  margin-top: 170px;
+}
+/* sixth section end */
+/* seventh section start */
+.seventh-section {
+  margin-top: 90px;
+}
+.seventh-section .row a {
+  text-decoration: none;
+}
+.seventh-section h1 {
+  color: var(--primary);
+}
+.seventh-section h3 {
+  color: var(--secondary);
+}
+/* seventh section end */

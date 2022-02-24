@@ -1,0 +1,9 @@
+.contact-us .form-card {
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+    background: white;
+}
+.contact-us .card-body {
+    padding: 3.25rem;
+}

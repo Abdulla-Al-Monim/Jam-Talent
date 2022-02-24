@@ -1,0 +1,20 @@
+<?php
+return [
+	'AboutUs' => "About Us",
+	'ContactUs' => "Contact Us",
+	"Language" => "Language",
+	"Knowledge Hub" => "Knowledge Hub",
+	"Happilancing" => "Happilancing",
+	"Login"  => "Log in",
+	"how" => "How",
+	"Find Talent"=> "Find Talent",
+	"Happilancing"=>"Happilancing",
+	"language"=>"language",
+	"Freelancer"=>"Freelancer",
+	"Admin"=>"Admin",
+	"Employer"=>"Employer",
+	"Super Admin"=>"Super Admin",
+	"Log out"=>"Log out",
+	"Dashboard"=>"Dashboard",
+	"Join Jamtalent"=>"Join Jamtalent",	
+];

@@ -1,0 +1,569 @@
+
+.m-card{
+    background: white;
+    color: black;
+    transition: all .4s ease;
+}
+.m-card:hover {
+    background: #0d6efd;
+    color: white;
+}
+.m-card1{
+
+    color: #0d6efd;
+    background: white;
+    
+    }
+.m-card:hover .m-card1 {
+    background: #0d6dfded;
+    color: white;
+}
+.card-hvr {
+    width: 14rem;
+    transform: scale(1.0);
+}
+.card-hvr:hover {
+
+width: 14rem;
+
+transform: scale(1.1);
+
+transition: all .4s ease;
+}
+.icon_size
+{
+    max-width: 17%;
+    
+}
+
+.card-edit{
+    border: 0px;
+}
+
+
+.min-mrg{
+    margin-left: -61px;
+}
+
+
+@media (max-width: 575.98px)
+
+{
+
+    .media-1{
+        width: 100%;
+        --bs-gutter-x: 9rem;
+    }
+    .media-2{
+        width: 12rem;
+    margin: auto;
+    }
+
+}
+
+/* <!--start section hiring made easy--> */
+/* ====MARIAM CSS======= */
+.padding-h {
+    padding-right: 14%;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.mheading strong{
+        font-size: 45px;
+    
+}
+.mheading{
+    margin-bottom: 30px;
+}
+.banner-paragraph{
+    font-size: 14px;
+    padding-right: 50%;
+}
+@media (max-width: 575.98px)
+
+{
+    .padding-h {
+        font-size: 35px;
+        padding-right: 0;
+    }
+    .mheading strong{
+        font-size: 35px;
+    }
+    .banner-paragraph{
+        font-size: 14px;
+        padding-right: 10%;
+    }
+}
+.sec-hvr {
+    color: black;
+    box-shadow: #6c757d;
+    transition: ease all .3s;
+}
+
+.sec-hvr:hover  {
+    background-color: #0d6efd;
+    transform-origin: center;
+    transform: scale(1);
+    transition: ease all .3s;
+}
+.sec-hvr:hover h4 {
+    color: #ffffff;
+    transition: ease all .3s;
+}
+.sec-hvr:hover p{
+    color: #ffffff;
+    transition: ease all .3s;
+}
+
+.sec-hvr .sec-p{
+    color: #6c757d;
+}
+.card-hvr {
+    width: 14rem;
+    transform: scale(1.0);
+    transition: all .4s;
+}
+.card-hvr:hover {
+
+width: 14rem;
+
+transform: scale(1.1);
+
+}
+.m-card{
+    background: white;
+    color: black;
+    transition: all .4s;
+}
+
+.m-card:hover {
+    background: #0d6efd;
+    color: white;
+}
+
+.m-card1{
+
+    color: #0d6efd;
+    background: white;
+    transition: all .4s;
+    
+    }
+
+.m-card:hover .m-card1 {
+    background: #0d6dfded;
+    color: white;
+}
+
+
+.icon_size
+{
+    max-width: 17%;
+}
+.card-edit{
+    border: 0px;
+}
+
+.min-mrg{
+    margin-left: -61px;
+}
+
+@media (max-width: 575.98px)
+
+{
+    .media-1{
+        width: 100%;
+        --bs-gutter-x: 9rem;
+    }
+    .media-2{
+        width: 12rem;
+    margin: auto;
+    }
+
+}
+
+.jamfont{
+    font-size: 18px;
+}
+
+/* <!--start section hiring made easy --> */
+/* ====MARIAM CSS======= */
+/* how pages */
+.sec-1 .num-border {
+    width: 29px;
+    border: solid 1.6px #204ecf;
+    border-radius: 50%;
+    position: relative;
+    height: 29px;
+    margin-left: auto;
+    margin-top: 4px;
+    }
+
+.sec-1 .num-border .num {
+    position: absolute;
+    color: #204ecf;
+    margin-left: 7px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 1px;
+}
+
+.mid .mid-h{
+    font-size: 28px;
+    color: #262d3d;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.mid .mid-p-1{
+    color: #455065;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 12px 0 16px;
+}
+
+.mid .mid-p-2{
+    font-size: 16px;
+    font-weight: 300;
+    color: #455065;
+    line-height: 24px;
+}
+
+.icon-sz{
+
+height: 24px;
+
+width: 24px;
+}
+
+.icon-lt{
+    
+}
+
+@media(max-width:575px){
+
+    .one{
+        width: 8%;
+    }
+    .two{
+        width: 92%;
+    }
+    .three{
+        width: 100%;
+        text-align: center;
+    }
+
+    .same{
+        width:100%;
+    }
+
+}
+
+/* how page */
+/* about us css */
+.top-sec {
+    margin-top: 0px;
+    background-image: url(images/office-1209640_1920.jpg);
+    background-position: top;
+    object-fit: cover;
+    background-color: #565555d1;
+    background-blend-mode: overlay;
+}
+.sec-h{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.top-sec p{
+    padding: 2px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 60px;
+    color: #2a41e8;
+}
+.top-sec .fs{
+    font-size: 48px;
+    margin-bottom: 18px;
+    margin-top: 75px;
+    color: white;
+}
+.text-row{
+
+background-color: #2a41e8;
+}
+.text-row h4{
+background-color: white;
+margin-left: 4px;
+padding: 6px;
+font-size: 27px;
+padding-left: 14px;
+}
+
+@media (max-width: 575px) {
+    .top-sec {
+        min-height: 22rem;
+    }
+    .top-sec p{
+        padding: 31px;
+        padding-left: 3%;
+        padding-right: 4%;
+        font-size: 40px;
+    }
+    .top-sec .fs{
+        font-size: 39px;
+        margin-bottom: 3px;
+        margin-top: 41px;
+  }
+}
+.hire-one{
+    background: #fff;
+    right: -247px;
+    z-index: -5;
+    padding-top: 13px;;
+}
+.pd-one{
+    padding: 46px;
+    padding-bottom: 97px;
+}
+.hire-one-title{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+}
+.hire-one-text{
+    text-align: center;
+    font-size: 17px;
+    padding: 10px;
+    padding: 25px 0px;
+}
+
+.hire-two{
+    position: absolute;
+    background: #0b7ffc;
+    right: -27px;
+    z-index: 21;
+
+}
+.hire-two-title{
+    font-size: 26px;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+}
+.hire-two-text{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    padding: 25px 0px;
+}
+
+.hire-three{
+    background: #fff;
+    right: 7px;
+    z-index: -6;
+    padding-top: 13px;
+}
+.hire-three-title{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+}
+.hire-three-text{
+    text-align: center;
+    font-size: 17px;
+    padding: 10px;
+    padding: 25px 0px;
+}
+.pd-two{
+    padding: 40px;
+}
+.pd-three{
+    padding: 46px;
+}
+.hire-height{
+    min-height: 80vh;
+}
+
+@media (max-width: 575.98px)
+
+{
+    .hire-one {
+        background: #fff;
+        /* position: initial; */
+        z-index: -1;
+        right: -51px;
+        padding-top: 8px;
+    }
+    .pd-one {
+        padding: 46px;
+        padding-bottom: 0px;
+    }
+    .hire-one-title {
+        font-size: 18px;
+    }
+    .hire-one-text {
+
+        font-size: 14px;
+    }
+    .hire-two {
+        right: 68px;
+        top: 27px;
+    }
+    .pd-two {
+        padding: 30px;
+    }
+    .hire-two-title {
+        font-size: 18px;
+    }
+    .hire-two-text {
+        font-size: 14px;
+    }
+    
+    .hire-three {
+        background: #fff;
+        right: 7px;
+        z-index: -6;
+        padding-top: 323px;
+        padding-left: 43px;
+    }
+    .pd-three {
+        padding: 46px;
+    }
+    .hire-three-title {
+        font-size: 18px;
+    }
+    .hire-three-text {
+        font-size: 14px;
+    }
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+
+    .hire-one {
+        background: #fff;
+        right: 50px;
+        z-index: -5;
+        padding-top: 13px;
+    }
+    .pd-one {
+        padding: 46px;
+        padding-bottom: 0px;
+    }
+    .hire-one-title {
+        font-size: 18px;
+    }
+    .hire-one-text {
+
+        font-size: 14px;
+    }
+    .hire-two {
+        right: 36px;
+        top: 27px;
+    }
+    .pd-two {
+        padding: 30px;
+    }
+    .hire-two-title {
+        font-size: 18px;
+    }
+    .hire-two-text {
+        font-size: 14px;
+    }
+    
+    .hire-three {
+        background: #fff;
+        right: -54px;
+        z-index: -6;
+        padding-top: 323px;
+        padding-left: 43px;
+    }
+    .pd-three {
+        padding: 46px;
+    }
+    .hire-three-title {
+        font-size: 18px;
+    }
+    .hire-three-text {
+        font-size: 14px;
+    }
+ }
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+
+    .hire-one {
+        background: #fff;
+        right: 0px;
+        z-index: -5;
+        padding-top: 13px;
+    }
+    
+ }
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1200px) { 
+    
+    .hire-one {
+        background: #fff;
+        right: -89px;
+        z-index: -5;
+        padding-top: 13px;
+    }
+}
+
+/* CONTACT US */
+.con-head {
+    text-transform: uppercase;
+    font-size: 55px;
+}
+.card-box{
+    /* padding: 56px;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -300px;
+    left: 0;
+    display: block; */
+
+}
+.box-shadow{
+    box-shadow: 1px 1px 20px 10px #8888883b;
+}
+.card-wrapper{
+    margin-bottom: 50px;
+    margin-top: -256px;
+}
+.sec-bg{
+    padding: 180px 20px;
+    background-color: black;
+}
+.consult-p{
+
+}
+.con-para{
+
+}
+.icon{
+    display: inline-block;
+}
+.cshadow{
+    border-radius: 0rem;
+    box-shadow: 0px 0px 20px 13px #007bff8c;
+}
+.consult-body{
+    padding: 110px;
+}
+.info ul{
+    display: flex;
+    list-style: none;
+    padding: 10px 0px;
+}
+.info ul li{
+    padding-right: 20px;
+    color: black;
+}
+/* about us css */

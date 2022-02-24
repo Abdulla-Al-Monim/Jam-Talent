@@ -1,0 +1,26 @@
+<?php 
+return[
+	"Add Employer"=>"Add Employer",
+	"Add Freelancer"=>"Add Freelancer",
+	"Add Admin"=>"Add Admin",
+	"First Name"  =>"First Name",
+	"Last Name"  =>"Last Name",
+	"Email"=>"Email",
+	"Gender"=>"Gender",
+	"male"=>"male",
+	"female"=>"female",
+	"My Profile"=>"My Profile",
+	"Nationality"=>"Nationality",
+	"Password & Security"=>"Password & Security",
+	"New Password"=>"New Password",
+	"Repeat New Password"=>"Repeat New Password",
+	"Add"=>"Add",
+	"All Employers"=>"All Employers",
+	"Email"=>"Email",
+	"Verified"=>"Verified",
+	"Action"=>"Action",
+	"All Freelancers"=>"All Freelancers",
+	"Payment Information"=>"Payment Information",
+	"All Admins"=>"All Admins",
+
+];
